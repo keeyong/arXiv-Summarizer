@@ -1,5 +1,8 @@
 # arXiv Paper Summarizer 📄✨
 
+[![GitHub](https://img.shields.io/badge/GitHub-arXiv--Summarizer-blue?logo=github)](https://github.com/keeyong/arXiv-Summarizer)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 arXiv 논문을 다운로드하고 섹션별로 요약하여 Markdown 파일로 출력하는 Python 스크립트입니다.
 
 ## 🎉 완전 무료! 
