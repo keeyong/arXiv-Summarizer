@@ -1,0 +1,20 @@
+# Core dependencies (required)
+requests>=2.31.0
+PyPDF2>=3.0.0
+
+# Backend options (install based on your choice)
+
+# Option 1: OpenAI (costs money, best quality)
+# openai>=1.0.0
+
+# Option 2: Hugging Face (free, good quality, first download is slow)
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# Option 3: Extractive summarization (free, fast, lower quality)
+# sumy>=0.11.0
+# nltk>=3.8
+
+# Option 4: Ollama (free, best option, install separately from https://ollama.ai)
+# No Python dependencies needed - just install Ollama app
+
